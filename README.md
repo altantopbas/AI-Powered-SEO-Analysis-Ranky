@@ -51,5 +51,8 @@ Ranky is an AI-powered, comprehensive SEO audit and content optimization platfor
 
 This project is proprietary. Unauthorized copying or distribution is prohibited.
 
+## 📩 Contact 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altantopbas)
+
 ---
 *Ranky - The Future of SEO Analysis Experience*
