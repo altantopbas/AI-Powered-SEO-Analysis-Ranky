@@ -1,4 +1,4 @@
-# Ranky - AI-Enhanced Professional SEO Analysis Platform (2026 Edition)
+# Ranky - AI-Enhanced Professional SEO Analysis Platform
 
 <p align="center">
   <img src="static/ranky-logo-beyaz.png" alt="Ranky Logo" width="500">
