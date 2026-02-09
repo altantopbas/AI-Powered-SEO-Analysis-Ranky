@@ -6,6 +6,14 @@
 
 Ranky is an AI-powered, comprehensive SEO audit and content optimization platform built for modern web standards (2026+). It goes beyond traditional SEO tools by analyzing advanced metrics such as E-E-A-T signals, semantic search compliance, and AI content detection.
 
+## 🎬 RANKY DEMO VIDEO
+   <p align="center">
+  <video src="https://github.com/user-attachments/assets/90f98a28-974f-407f-80c0-3e2a2d156b88" width="100%" controls>
+   Your browser does not support the video tag.
+  </video>
+</p>
+
+
 ## 🚀 Key Features
 
 ### 1. AI-Powered Deep Analysis
@@ -38,8 +46,6 @@ Ranky is an AI-powered, comprehensive SEO audit and content optimization platfor
 - **Reporting:** ReportLab PDF Library
 - **Deployment:** Vercel & Kubernetes compatible architecture
 
-## RANKY PROMOTION VIDEO
-   https://github.com/user-attachments/assets/90f98a28-974f-407f-80c0-3e2a2d156b88
 
 ## 📄 License
 
