@@ -1,8 +1,10 @@
 # Ranky - AI-Enhanced Professional SEO Analysis Platform (2026 Edition)
 
-Ranky is an AI-powered, comprehensive SEO audit and content optimization platform built for modern web standards (2026+). It goes beyond traditional SEO tools by analyzing advanced metrics such as E-E-A-T signals, semantic search compliance, and AI content detection.
+<p align="center">
+  <img src="static/ranky-logo-beyaz.png" alt="Ranky Logo" width="500">
+</p>
 
-![Ranky Logo](static/logo.png) <!-- Add your logo file here if available -->
+Ranky is an AI-powered, comprehensive SEO audit and content optimization platform built for modern web standards (2026+). It goes beyond traditional SEO tools by analyzing advanced metrics such as E-E-A-T signals, semantic search compliance, and AI content detection.
 
 ## 🚀 Key Features
 
@@ -36,63 +38,8 @@ Ranky is an AI-powered, comprehensive SEO audit and content optimization platfor
 - **Reporting:** ReportLab PDF Library
 - **Deployment:** Vercel & Kubernetes compatible architecture
 
-## 📦 Installation
-
-Follow these steps to run the project in your local environment:
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd ranky_app_2025
-   ```
-
-2. **Create and activate a virtual environment:**
-   ```bash
-   python -m venv venv
-   # For Windows:
-   .\venv\Scripts\activate
-   # For Linux/Mac:
-   source venv/bin/activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure environment variables:**
-   Copy the `.env.example` file to `.env` and add your API keys:
-   ```env
-   # AI Service (OpenRouter)
-   OPENROUTER_API_KEY=your_openrouter_key
-
-   # Security
-   SECRET_KEY=your_secret_key_here
-
-   # Database
-   DATABASE_URL=sqlite:///./ranky.db
-
-   # Stripe Payment System
-   STRIPE_SECRET_KEY=your_stripe_secret_key
-   STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
-   STRIPE_PRICE_ID=your_stripe_price_id
-   STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret
-   ```
-
-5. **Run the application:**
-   ```bash
-   uvicorn main:app --reload
-   ```
-
-## 📂 Project Structure
-
-- `main.py`: Main entry point and API endpoints.
-- `auth.py`: JWT-based user authentication.
-- `database.py`: Database models and connection management.
-- `payment.py`: Stripe payment integration logic.
-- `templates/`: HTML interface files (Jinja2).
-- `static/`: CSS, JavaScript, and image assets.
-- `scripts/`: Maintenance and data management scripts.
+## RANKY PROMOTION VIDEO
+   https://github.com/user-attachments/assets/90f98a28-974f-407f-80c0-3e2a2d156b88
 
 ## 📄 License
 
