@@ -1,8 +1,8 @@
-# Ranky - AI-Enhanced Professional SEO Analysis Platform
-
 <p align="center">
   <img src="static/ranky-logo-beyaz.png" alt="Ranky Logo" width="500">
 </p>
+
+# Ranky - AI-Enhanced Professional SEO Analysis Platform
 
 Ranky is an AI-powered, comprehensive SEO audit and content optimization platform built for modern web standards (2026+). It goes beyond traditional SEO tools by analyzing advanced metrics such as E-E-A-T signals, semantic search compliance, and AI content detection.
 
