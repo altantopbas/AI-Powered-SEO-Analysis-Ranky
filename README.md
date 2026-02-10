@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="static/ranky-logo-beyaz.png">
     <source media="(prefers-color-scheme: light)" srcset="static/ranky-logo.png">
-    <img alt="Ranky Logo" src="static/ranky-logo-beyaz.png" width="450">
+    <img alt="Ranky Logo" src="static/ranky-logo-beyaz.png" width="400">
   </picture>
 </p>
 
