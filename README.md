@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="static/ranky-logo-beyaz.png" alt="Ranky Logo" width="500">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="static/ranky-logo-beyaz.png">
+    <source media="(prefers-color-scheme: light)" srcset="static/ranky-logo.png">
+    <img alt="Ranky Logo" src="static/ranky-logo-beyaz.png" width="450">
+  </picture>
 </p>
 
 # Ranky - AI-Enhanced Professional SEO Analysis Platform
